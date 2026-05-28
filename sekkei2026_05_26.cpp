@@ -51,3 +51,6 @@ int main() {
 
 	Show(player);
 }
+void unti() {
+
+}
